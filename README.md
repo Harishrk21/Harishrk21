@@ -1,3 +1,5 @@
+Certainly! Here's the full revision:
+
 ## Hi there 👋 It's me, Harish!
 
 🎓 Post Graduate Student in Computer Science
@@ -5,11 +7,11 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌱 Currently diving deep into Data Structures and Algorithms
-- 👯 Open to exciting collaborations in Machine Learning and Artificial Intelligence projects
+- 👯 I'm eager to team up on projects involving Java, Spring Framework, MySQL, and backend development. Let's build something amazing together! 🤝
 - 🤔 Seeking guidance and insights for placements in FAANG companies
 - 💬 Let's talk Tech! Feel free to ask me anything about technology
 - 📫 Reach out to me: 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harish-kumar-r-718250232/)
+  <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harish-kumar-r-718250232/)
 
 😄 Pronouns: Techie
 
